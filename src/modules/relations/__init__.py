@@ -1,0 +1,1 @@
+# all the associate tables/model will recide here

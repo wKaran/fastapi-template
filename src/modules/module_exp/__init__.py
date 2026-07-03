@@ -1,0 +1,1 @@
+# Example feature module. Duplicate and rename this folder when creating a new module.
